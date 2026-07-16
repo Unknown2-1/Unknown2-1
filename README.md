@@ -13,12 +13,6 @@ to interfaces people can use comfortably.
 ## GitHub overview
 
 <p align="center">
-  <a href="https://github.com/cicirello/user-statistician">
-    <img src="./images/userstats.svg" alt="Danish's public repository, contribution, and language statistics" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Unknown2-1&amp;theme=tokyonight&amp;hide_border=true" alt="Danish's public contribution streak" />
   </a>
