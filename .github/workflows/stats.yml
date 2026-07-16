@@ -1,0 +1,29 @@
+name: Generate profile statistics
+
+on:
+  schedule:
+    - cron: "11 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate public statistics SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark
+          image-file: images/userstats.svg
+          max-languages: 8
+          hide-keys: private
+          featured-repository: umkm-pos-inventory
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
