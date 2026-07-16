@@ -33,12 +33,6 @@ to interfaces people can use comfortably.
 
 ## Contribution activity
 
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown2-1&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Danish's public contribution activity graph" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unknown2-1/Unknown2-1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unknown2-1/Unknown2-1/output/github-contribution-grid-snake.svg" />
