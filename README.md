@@ -22,3 +22,5 @@ jelas, antarmuka yang nyaman digunakan, dan implementasi yang dapat diuji.
 
 I keep personal details private by design. The best way to follow my work is
 through the repositories on this profile.
+
+<!-- profile-readme-refresh -->
